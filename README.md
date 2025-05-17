@@ -84,7 +84,7 @@ Visit: [http://localhost:5000](http://localhost:5000)
 
 🖼️ Screenshots
 
-![Task Manager Screenshot](Task_Manager.png)
+![Task Manager Screenshot](Task.png)
 
 📌 Future Enhancements
 
