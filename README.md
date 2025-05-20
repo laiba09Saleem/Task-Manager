@@ -48,7 +48,7 @@ task-manager/
 
 🌐 Live Demo
 
-[Click here to view the live site]((https://laiba09saleem.github.io/Task-Manager/))
+[Click here to view the live site](https://laiba09saleem.github.io/Task-Manager/)
 cd task-manager
 
 2. Create a Virtual Environment (Optional but Recommended)
