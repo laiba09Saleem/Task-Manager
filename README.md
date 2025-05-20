@@ -34,24 +34,19 @@ Backend
 
 
 task-manager/
-│
-├── static/
-│   ├── style.css         # CSS for styling the app
-│   └── script.js         # JavaScript logic
-│
-├── templates/
-│   └── index.html        # Main HTML template
-│
-├── tasks.db              # SQLite database file (auto-created)
-├── app.py                # Flask backend
-└── README.md             # Project documentation
+ ├── style.css             # CSS for styling the app
+ └── script.js             # JavaScript logic
+ └── index.html            # Main HTML template
+ ├── tasks.db              # SQLite database file (auto-created)
+ ├── app.py                # Flask backend
+ └── README.md             # Project documentation
 
 
 ⚙️ Setup Instructions
 
 1. Clone the Repository
 
-git clone (https://github.com/laiba09Saleem/Task-Manager.git)
+git clone (https://laiba09saleem.github.io/Task-Manager/)
 cd task-manager
 
 2. Create a Virtual Environment (Optional but Recommended)
